@@ -1,6 +1,6 @@
 # Dictionary for mns — hun
 
-This repository contains source files for a dictionary from Mansi to Hungarian. The content is licensed under the CC-BY-4.0 license.
+This repository contains source files for a dictionary from Mansi to Hungarian, Russian and English. The content is licensed under the CC-BY-4.0 license.
 
 Many of the dictionaries are published on [sátni.org](https://sátni.org) and [NDS](https://sanit.oahpa.no).
 
